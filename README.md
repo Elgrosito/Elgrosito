@@ -1,6 +1,12 @@
 <h3 align="center">Data Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 <h3 align="left">Frameworks:</h3>
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
