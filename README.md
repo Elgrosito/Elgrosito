@@ -5,11 +5,9 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- 🧟: In my free time, I like contributing to Cataclysm Dark Days Ahead.
+- 🧟 🔪: In my free time, I like contributing to Cataclysm Dark Days Ahead. I also make knives!
 
   <!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>-->
-</div>>
-
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
