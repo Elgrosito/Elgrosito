@@ -7,8 +7,8 @@
 
 - 🧟: In my free time, I like contributing to Cataclysm Dark Days Ahead.
 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+  <!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>-->
+</div>>
 
 
 <h3 align="left">Frameworks:</h3>
