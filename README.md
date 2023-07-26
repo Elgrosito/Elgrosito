@@ -9,6 +9,9 @@
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Database:</h3>
