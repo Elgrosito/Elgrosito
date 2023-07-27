@@ -148,112 +148,12 @@
 
 <img>puma imagen</img>
 
+| Backend          | Ml/Ai            | Python           | Database         | Other            |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| Row 1 Backend    | Row 1 Ml/Ai      | Row 1 Python     | Row 1 Database   | Row 1 Other      |
+| Row 2 Backend    | Row 2 Ml/Ai      | Row 2 Python     | Row 2 Database   | Row 2 Other      |
+| Row 3 Backend    | Row 3 Ml/Ai      | Row 3 Python     | Row 3 Database   | Row 3 Other      |
+| Row 4 Backend    | Row 4 Ml/Ai      | Row 4 Python     | Row 4 Database   | Row 4 Other      |
+| Row 5 Backend    | Row 5 Ml/Ai      | Row 5 Python     | Row 5 Database   | Row 5 Other      |
 
-
-
-<table style=“width:100%” border=“1”>
-
-<tr>
-<th>x</th>
-<th>y/th>
-<th>z</th>
-</tr>
-
-<tr>
-<td style=“text-align: center; vertical-align: middle”> x1 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> y1 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> z1 img</td>
-</tr>
-
-<tr>
-<td style=“text-align: center; vertical-align: middle”> x2 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> y2 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> z2 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> x3 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> y3 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> z3 img</td>
-</tr>
-</table>
-</center>
-
-<div></div>
-<table>
-<tr>
-<th>Backend</th>
-<th>Ml/Ai</th>
-<th>Python</th>
-<th>Database</th>
-<th>Other</th>
-</tr>
-
-<tr>
-<td style="text-align: center; vertical-align: middle">
-    <a href="backend1_url" target="_blank" rel="noreferrer">
-        <img src="image1_url" alt="backend1" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="mlai1_url" target="_blank" rel="noreferrer">
-        <img src="image2_url" alt="mlai1" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="python1_url" target="_blank" rel="noreferrer">
-        <img src="image3_url" alt="python1" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="database1_url" target="_blank" rel="noreferrer">
-        <img src="image4_url" alt="database1" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-    </a>
-</td>
-</tr>
-
-<tr>
-<td style="text-align: center; vertical-align: middle">
-    <a href="backend2_url" target="_blank" rel="noreferrer">
-        <img src="image6_url" alt="backend2" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="mlai2_url" target="_blank" rel="noreferrer">
-        <img src="image7_url" alt="mlai2" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="python2_url" target="_blank" rel="noreferrer">
-        <img src="image8_url" alt="python2" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="database2_url" target="_blank" rel="noreferrer">
-        <img src="image9_url" alt="database2" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
-    </a>
-</td>
-</tr>
-
-
-
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
