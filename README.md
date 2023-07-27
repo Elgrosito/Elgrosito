@@ -6,7 +6,6 @@
 - :telescope: I’m working as a Backend Developer and contributing to data-related and backend applications.
 - 📖: Studied Applied Linguistics, preparing for a Masters in Computational Linguistics.
 
-- :seedling: Exploring Technical Content Writing.
 
 - 🧟 🔪: In my free time, I like contributing to Cataclysm Dark Days Ahead. I also make knives!
 
