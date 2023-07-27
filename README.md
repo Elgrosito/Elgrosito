@@ -243,10 +243,6 @@
 </td>
 </tr>
 
-<!-- Add more rows if needed, up to a total of 8 rows -->
-<!-- Remember to replace image1_url, image2_url, ... with actual image URLs -->
-</table>
-
 <table>
 <tr>
 <th>Backend</th>
@@ -315,5 +311,6 @@
 <!-- Add more rows if needed, up to a total of 8 rows -->
 <!-- Remember to replace image1_url, image2_url, ... with actual image URLs -->
 </table>
+
 
 
