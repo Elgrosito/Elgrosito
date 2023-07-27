@@ -216,44 +216,65 @@
 
 <tr>
 <td style="text-align: center; vertical-align: middle">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="30" height="30"/>
+    <a href="backend1_url" target="_blank" rel="noreferrer">
+        <img src="image1_url" alt="backend1" width="30" height="30"/>
+    </a>
 </td>
 
 <td style="text-align: center; vertical-align: middle">
-    <img src="image2_url" alt="y1" width="30" height="30"/>
+    <a href="mlai1_url" target="_blank" rel="noreferrer">
+        <img src="image2_url" alt="mlai1" width="30" height="30"/>
+    </a>
 </td>
 
 <td style="text-align: center; vertical-align: middle">
-    <img src="image3_url" alt="z1" width="30" height="30"/>
+    <a href="python1_url" target="_blank" rel="noreferrer">
+        <img src="image3_url" alt="python1" width="30" height="30"/>
+    </a>
+</td>
+<td style="text-align: center; vertical-align: middle">
+    <a href="database1_url" target="_blank" rel="noreferrer">
+        <img src="image4_url" alt="database1" width="30" height="30"/>
+    </a>
+</td>
+
+<td style="text-align: center; vertical-align: middle">
+    <a href="other1_url" target="_blank" rel="noreferrer">
+        <img src="image5_url" alt="other1" width="30" height="30"/>
+    </a>
 </td>
 </tr>
 
 <tr>
 <td style="text-align: center; vertical-align: middle">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="x2" width="30" height="30"/>
+    <a href="backend2_url" target="_blank" rel="noreferrer">
+        <img src="image6_url" alt="backend2" width="30" height="30"/>
+    </a>
 </td>
 
 <td style="text-align: center; vertical-align: middle">
-    <img src="image5_url" alt="y2" width="30" height="30"/>
+    <a href="mlai2_url" target="_blank" rel="noreferrer">
+        <img src="image7_url" alt="mlai2" width="30" height="30"/>
+    </a>
 </td>
 
 <td style="text-align: center; vertical-align: middle">
-    <img src="image6_url" alt="z2" width="30" height="30"/>
+    <a href="python2_url" target="_blank" rel="noreferrer">
+        <img src="image8_url" alt="python2" width="30" height="30"/>
+    </a>
+</td>
+<td style="text-align: center; vertical-align: middle">
+    <a href="database2_url" target="_blank" rel="noreferrer">
+        <img src="image9_url" alt="database2" width="30" height="30"/>
+    </a>
+</td>
+
+<td style="text-align: center; vertical-align: middle">
+    <a href="other2_url" target="_blank" rel="noreferrer">
+        <img src="image10_url" alt="other2" width="30" height="30"/>
+    </a>
 </td>
 </tr>
 
-<tr>
-<td style="text-align: center; vertical-align: middle">
-    <img src="image7_url" alt="x3" width="30" height="30"/>
-</td>
-
-<td style="text-align: center; vertical-align: middle">
-    <img src="image8_url" alt="y3" width="30" height="30"/>
-</td>
-
-<td style="text-align: center; vertical-align: middle">
-    <img src="image9_url" alt="z3" width="30" height="30"/>
-</td>
-</tr>
 </table>
 
