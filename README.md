@@ -173,6 +173,12 @@
 <td style=“text-align: center; vertical-align: middle”> y2 img</td>
 
 <td style=“text-align: center; vertical-align: middle”> z2 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> x3 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> y3 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> z3 img</td>
 </tr>
 </table>
 </center>
@@ -243,73 +249,6 @@
 </td>
 </tr>
 
-<table>
-<tr>
-<th>Backend</th>
-<th>Ml/Ai</th>
-<th>Python</th>
-<th>Database</th>
-<th>Other</th>
-</tr>
-
-<tr>
-<td style="text-align: center; vertical-align: middle">
-    <a href="backend1_url" target="_blank" rel="noreferrer">
-        <img src="image1_url" alt="backend1" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="mlai1_url" target="_blank" rel="noreferrer">
-        <img src="image2_url" alt="mlai1" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="python1_url" target="_blank" rel="noreferrer">
-        <img src="image3_url" alt="python1" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="database1_url" target="_blank" rel="noreferrer">
-        <img src="image4_url" alt="database1" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="other1_url" target="_blank" rel="noreferrer">
-        <img src="image5_url" alt="other1" width="30" height="30"/>
-    </a>
-</td>
-</tr>
-
-<tr>
-<td style="text-align: center; vertical-align: middle">
-    <a href="backend2_url" target="_blank" rel="noreferrer">
-        <img src="image6_url" alt="backend2" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="mlai2_url" target="_blank" rel="noreferrer">
-        <img src="image7_url" alt="mlai2" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="python2_url" target="_blank" rel="noreferrer">
-        <img src="image8_url" alt="python2" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="database2_url" target="_blank" rel="noreferrer">
-        <img src="image9_url" alt="database2" width="30" height="30"/>
-    </a>
-</td>
-<td style="text-align: center; vertical-align: middle">
-    <a href="other2_url" target="_blank" rel="noreferrer">
-        <img src="image10_url" alt="other2" width="30" height="30"/>
-    </a>
-</td>
-</tr>
-
-<!-- Add more rows if needed, up to a total of 8 rows -->
-<!-- Remember to replace backend1_url, mlai1_url, python1_url, database1_url, other1_url, image1_url, image2_url, image3_url, image4_url, image5_url, backend2_url, mlai2_url, python2_url, database2_url, other2_url, image6_url
 
 
 
