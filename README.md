@@ -19,10 +19,11 @@
 
 
 
-
-<h2> 📝 Tools</h2>
-<table style=“width:100%” border=“1”>
 <center>
+<h2> 📝 Tools</h2>
+</center>
+
+
 | Backend          | Ml/Ai                     | Python           | Database         | Other            |
 | ---------------- | ------------------------- | ---------------- | ---------------- | ---------------- |
 | <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Backend1" width="30" height="30"/></p> | <p align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Ml/Ai1" width="30" height="30"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python1" width="30" height="30"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Database1" width="30" height="30"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Other1" width="30" height="30"/></p> |
@@ -33,7 +34,7 @@
 | <p align="center">N/A</p> | <p align="center">N/A</p> | <p align="center"><img src="https://github.com/numpy/numpy/blob/main/branding/logo/secondary/numpylogo2.png" alt="Python6" width="30" height="30"/></p> | <p align="center">N/A</p> | <p align="center"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Other6" width="30" height="30"/></p> |
 | <p align="center">N/A</p> | <p align="center">N/A</p> | <p align="center">N/A</p> | <p align="center">N/A</p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Other7" width="30" height="30"/></p> |
 | <p align="center">N/A</p> | <p align="center">N/A</p> | <p align="center">N/A</p> | <p align="center">N/A</p> | <p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Other8" width="30" height="30"/></p> |
-</center>
+
 
 <h3 align="left">I'm also on:</h3>
 <p align="left">
