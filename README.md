@@ -19,9 +19,9 @@
 <table style=“width:100%” border=“1”>
 
 <tr>
-<th>x</th>
-<th>y/th>
-<th>z</th>
+<th>Backend</th>
+<th>Ml/Ai/th>
+<th>Database</th>
 </tr>
 
 <tr>
