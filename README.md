@@ -1,7 +1,6 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lucasparzianello" height="30" width="40" /></a>
-</p>
+
+<h1 align="center">El Grosito</h1>
+
 <h3 align="center">Data Scientist</h3>
 
 - :telescope: I’m working as a Backend Developer and contributing to data-related and backend applications.
@@ -97,4 +96,10 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="conda" width="40" height="40"/>
     </a>
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lucasparzianello" height="30" width="40" /></a>
 </p>
