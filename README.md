@@ -207,14 +207,16 @@
 <div></div>
 <table>
 <tr>
-<th>x</th>
-<th>y</th>
-<th>z</th>
+<th>Backend</th>
+<th>Ml/Ai</th>
+<th>Python</th>
+<th>Database</th>
+<th>Other</th>
 </tr>
 
 <tr>
 <td style="text-align: center; vertical-align: middle">
-    <img src="image1_url" alt="x1" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="x1" width="30" height="30"/>
 </td>
 
 <td style="text-align: center; vertical-align: middle">
