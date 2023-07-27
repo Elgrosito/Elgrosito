@@ -148,13 +148,14 @@
 
 <img>puma imagen</img>
 
-| Backend          | Ml/Ai                            | Python             | Database         | Other            |
-| ---------------- | -------------------------------- | ------------------ | ---------------- | ---------------- |
-| ![Backend1](https://cdn.worldvectorlogo.com/logos/django.svg) | ![Ml/Ai1](image2_url)           | ![Python1](image3_url) | ![Database1](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) | ![Other1](image5_url) |
-| ![Backend2](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg) | ![Ml/Ai2](image7_url)           | ![Python2](image8_url) | ![Database2](image9_url) | ![Other2](image10_url) |
-| ![Backend3](https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg) | ![Ml/Ai3](image12_url)         | ![Python3](image13_url) | ![Database3](image14_url) | ![Other3](image15_url) |
-| ![Backend4](image16_url) | ![Ml/Ai4](image17_url)         | ![Python4](image18_url) | ![Database4](image19_url) | ![Other4](image20_url) |
-| ![Backend5](image21_url) | ![Ml/Ai5](image22_url)         | ![Python5](image23_url) | ![Database5](image24_url) | ![Other5](image25_url) |
+| Backend          | Ml/Ai                     | Python           | Database         | Other            |
+| ---------------- | ------------------------- | ---------------- | ---------------- | ---------------- |
+| <img src="image1_url" alt="Backend1" width="30" height="30"/> | <img src="image2_url" alt="Ml/Ai1" width="30" height="30"/> | <img src="image3_url" alt="Python1" width="30" height="30"/> | <img src="image4_url" alt="Database1" width="30" height="30"/> | <img src="image5_url" alt="Other1" width="30" height="30"/> |
+| <img src="image6_url" alt="Backend2" width="30" height="30"/> | <img src="image7_url" alt="Ml/Ai2" width="30" height="30"/> | <img src="image8_url" alt="Python2" width="30" height="30"/> | <img src="image9_url" alt="Database2" width="30" height="30"/> | <img src="image10_url" alt="Other2" width="30" height="30"/> |
+| <img src="image11_url" alt="Backend3" width="30" height="30"/> | <img src="image12_url" alt="Ml/Ai3" width="30" height="30"/> | <img src="image13_url" alt="Python3" width="30" height="30"/> | <img src="image14_url" alt="Database3" width="30" height="30"/> | <img src="image15_url" alt="Other3" width="30" height="30"/> |
+| <img src="image16_url" alt="Backend4" width="30" height="30"/> | <img src="image17_url" alt="Ml/Ai4" width="30" height="30"/> | <img src="image18_url" alt="Python4" width="30" height="30"/> | <img src="image19_url" alt="Database4" width="30" height="30"/> | <img src="image20_url" alt="Other4" width="30" height="30"/> |
+| <img src="image21_url" alt="Backend5" width="30" height="30"/> | <img src="image22_url" alt="Ml/Ai5" width="30" height="30"/> | <img src="image23_url" alt="Python5" width="30" height="30"/> | <img src="image24_url" alt="Database5" width="30" height="30"/> | <img src="image25_url" alt="Other5" width="30" height="30"/> |
+
 
 
 
