@@ -274,8 +274,8 @@
     </a>
 </td>
 <td style="text-align: center; vertical-align: middle">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+    <a href="other1_url" target="_blank" rel="noreferrer">
+        <img src="image5_url" alt="other1" width="30" height="30"/>
     </a>
 </td>
 </tr>
@@ -302,15 +302,15 @@
     </a>
 </td>
 <td style="text-align: center; vertical-align: middle">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
+    <a href="other2_url" target="_blank" rel="noreferrer">
+        <img src="image10_url" alt="other2" width="30" height="30"/>
     </a>
 </td>
 </tr>
 
 <!-- Add more rows if needed, up to a total of 8 rows -->
-<!-- Remember to replace image1_url, image2_url, ... with actual image URLs -->
-</table>
+<!-- Remember to replace backend1_url, mlai1_url, python1_url, database1_url, other1_url, image1_url, image2_url, image3_url, image4_url, image5_url, backend2_url, mlai2_url, python2_url, database2_url, other2_url, image6_url
+
 
 
 
