@@ -220,13 +220,11 @@
         <img src="image1_url" alt="backend1" width="30" height="30"/>
     </a>
 </td>
-
 <td style="text-align: center; vertical-align: middle">
     <a href="mlai1_url" target="_blank" rel="noreferrer">
         <img src="image2_url" alt="mlai1" width="30" height="30"/>
     </a>
 </td>
-
 <td style="text-align: center; vertical-align: middle">
     <a href="python1_url" target="_blank" rel="noreferrer">
         <img src="image3_url" alt="python1" width="30" height="30"/>
@@ -237,38 +235,37 @@
         <img src="image4_url" alt="database1" width="30" height="30"/>
     </a>
 </td>
-
 <td style="text-align: center; vertical-align: middle">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
     </a>
-    ⁝
+</td>
+</tr>
+
+<tr>
+<td style="text-align: center; vertical-align: middle">
+    <a href="backend2_url" target="_blank" rel="noreferrer">
+        <img src="image6_url" alt="backend2" width="30" height="30"/>
+    </a>
+</td>
+<td style="text-align: center; vertical-align: middle">
+    <a href="mlai2_url" target="_blank" rel="noreferrer">
+        <img src="image7_url" alt="mlai2" width="30" height="30"/>
+    </a>
+</td>
+<td style="text-align: center; vertical-align: middle">
+    <a href="python2_url" target="_blank" rel="noreferrer">
+        <img src="image8_url" alt="python2" width="30" height="30"/>
+    </a>
+</td>
+<td style="text-align: center; vertical-align: middle">
+    <a href="database2_url" target="_blank" rel="noreferrer">
+        <img src="image9_url" alt="database2" width="30" height="30"/>
+    </a>
+</td>
+<td style="text-align: center; vertical-align: middle">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
-    </a>
-    ⁝
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
-    </a>
-    ⁝
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-    </a>
-    ⁝
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/>
-    </a>
-    ⁝
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-    </a>
-    ⁝
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
-    </a>
-    ⁝
-    <a href="https://www.anaconda.com/download" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="conda" width="30" height="30"/>
     </a>
 </td>
 </tr>
@@ -276,4 +273,5 @@
 <!-- Add more rows if needed, up to a total of 8 rows -->
 <!-- Remember to replace image1_url, image2_url, ... with actual image URLs -->
 </table>
+
 
