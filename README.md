@@ -16,7 +16,31 @@
 
 
 <h2> Tools</h2>
+<table style=“width:100%” border=“1”>
 
+<tr>
+<th>x</th>
+<th>y/th>
+<th>z</th>
+</tr>
+
+<tr>
+<td style=“text-align: center; vertical-align: middle”> x1 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> y1 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> z1 img</td>
+</tr>
+
+<tr>
+<td style=“text-align: center; vertical-align: middle”> x2 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> y2 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> z2 img</td>
+</tr>
+</table>
+</center>
   <!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>-->
 
 <h3 align="left">Frameworks:</h3>
@@ -138,7 +162,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I'm also on:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lucasparzianello" height="30" width="30" /></a>
 </p>
