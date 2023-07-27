@@ -205,34 +205,40 @@
 </center>
 
 <div></div>
+<table>
 <tr>
-<td style="text-align: center; vertical-align: middle">
-    <br>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>
-    </a>
-</td>
-
-<td style="text-align: center; vertical-align: middle"> y1 img</td>
-
-<td style="text-align: center; vertical-align: middle"> z1 img</td>
+<th>x</th>
+<th>y</th>
+<th>z</th>
 </tr>
 
 <tr>
 <td style="text-align: center; vertical-align: middle">
-    x2 img
-    <br>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="30" height="30"/>
-    </a>
-    ⁝
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="30" height="30"/>
-    </a>
+    <img src="image1_url" alt="x1" width="30" height="30"/>
 </td>
 
-<td style="text-align: center; vertical-align: middle"> y2 img</td>
+<td style="text-align: center; vertical-align: middle">
+    <img src="image2_url" alt="y1" width="30" height="30"/>
+</td>
 
-<td style="text-align: center; vertical-align: middle"> z2 img</td>
+<td style="text-align: center; vertical-align: middle">
+    <img src="image3_url" alt="z1" width="30" height="30"/>
+</td>
+</tr>
+
+<tr>
+<td style="text-align: center; vertical-align: middle">
+    <img src="image4_url" alt="x2" width="30" height="30"/>
+</td>
+
+<td style="text-align: center; vertical-align: middle">
+    <img src="image5_url" alt="y2" width="30" height="30"/>
+</td>
+
+<td style="text-align: center; vertical-align: middle">
+    <img src="image6_url" alt="z2" width="30" height="30"/>
+</td>
 </tr>
 </table>
+</center>
+
