@@ -1,18 +1,7 @@
-<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
-
-<div class="container">
-  <div class="header">
-    <div class="full-name">
-      <span class="first-name">John</span> 
-      <span class="last-name">Doe</span>
-    </div>
-    <div class="contact-info">
-      <span class="email">Email: </span>
-      <span class="email-val">john.doe@gmail.com</span>
-      <span class="separator"></span>
-      <span class="phone">Phone: </span>
-      <span class="phone-val">111-222-3333</span>
-    </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lucasparzianello" height="30" width="40" /></a>
+</p>
 <h3 align="center">Data Scientist</h3>
 
 - :telescope: I’m working as a Backend Developer and contributing to data-related and backend applications.
