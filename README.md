@@ -216,11 +216,11 @@
 
 <tr>
 <td style="text-align: center; vertical-align: middle">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" alt="dj" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" alt="x1" width="30" height="30"/>
 </td>
 
 <td style="text-align: center; vertical-align: middle">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="30" height="30"/>
+    <img src="" alt="y1" width="30" height="30"/>
 </td>
 
 <td style="text-align: center; vertical-align: middle">
@@ -230,7 +230,7 @@
 
 <tr>
 <td style="text-align: center; vertical-align: middle">
-    <img src="image4_url" alt="x2" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="x2" width="30" height="30"/>
 </td>
 
 <td style="text-align: center; vertical-align: middle">
