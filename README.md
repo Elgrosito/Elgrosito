@@ -146,7 +146,8 @@
 
 
 
-<img>puma imagen</img>
+<h2> Tools</h2>
+<table style=“width:100%” border=“1”>
 
 | Backend          | Ml/Ai                     | Python           | Database         | Other            |
 | ---------------- | ------------------------- | ---------------- | ---------------- | ---------------- |
