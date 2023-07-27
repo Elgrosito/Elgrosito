@@ -26,6 +26,8 @@
     </a>
 </p>
 
+
+
 <h3 align="left">Database:</h3>
 <p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -78,6 +80,18 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/>
     </a>
+  ⁝
+     <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" alt="keras" width="30" height="30"/>
+    </a>
+  ⁝
+     <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="scipy" width="30" height="30"/>
+    </a>
+  ⁝
+     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" alt="numpy" width="30" height="30"/>
+    </a>
 </p>
 
 <h3 align="left">Other:</h3>
@@ -110,7 +124,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
     </a>
   ⁝
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <a href="https://www.anaconda.com/download" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="conda" width="30" height="30"/>
     </a>
 </p>
