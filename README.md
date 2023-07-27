@@ -15,7 +15,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.seekpng.com/ipng/u2t4i1q8e6q8t4w7_flask-framework-logo-svg/" alt="flask" width="40" height="40"/>
+        <img src="https://www.seekpng.com/ipng/u2t4i1q8e6q8t4w7_flask-framework-logo-svg/flask.svg" alt="flask" width="40" height="40"/>
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/>
