@@ -134,3 +134,49 @@
 <p align="left">
 <a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lucasparzianello" height="30" width="30" /></a>
 </p>
+
+<center><h1>The Grossit</1>
+
+<h3>Full stack/back end dev</h3>
+
+<img>puma imagen</img>
+
+<hr style=“width:40%”>
+
+<h2> Summary</h2>
+
+<p>exp x años haciendo esto. Te gustan los cullis</p>
+
+<hr style=“width:40%”>
+
+<h2> App/Softs esos que tenias en listas con imagenes</h2>
+
+<table style=“width:100%” border=“1”>
+
+<tr>
+<th>x</th>
+<th>y/th>
+<th>z</th>
+</tr>
+
+<tr>
+<td style=“text-align: center; vertical-align: middle”> x1 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> y1 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> z1 img</td>
+</tr>
+
+<tr>
+<td style=“text-align: center; vertical-align: middle”> x2 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> y2 img</td>
+
+<td style=“text-align: center; vertical-align: middle”> z2 img</td>
+</tr>
+</table>
+</center>
+
+<div></div>
+
+<p><font size=“-1”>Connect with me: kaggle profile</font size></p>
