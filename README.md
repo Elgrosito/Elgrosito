@@ -90,7 +90,7 @@
     </a>
   ⁝
      <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" alt="numpy" width="30" height="30"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="30" height="30"/>
     </a>
 </p>
 
