@@ -1,4 +1,4 @@
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Data Scientist</h3>
 
 - :telescope: I’m working as a Backend Developer and contributing to data-related and backend applications.
 - 📖: Studied Applied Linguistics, preparing for a Masters in Computational Linguistics.
