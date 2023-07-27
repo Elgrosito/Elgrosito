@@ -20,8 +20,10 @@
 
 <tr>
 <th>Backend</th>
-<th>Ml/Ai/th>
+<th>Ml/Ai</th>
+<th>Python</th>
 <th>Database</th>
+<th>Other</th>
 </tr>
 
 <tr>
