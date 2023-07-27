@@ -1,13 +1,22 @@
 
-<h1 align="center">El Grosito</h1>
+<center><h1>Lucas Parzianello</1>
 
-<h3 align="left">Data Scientist</h3>
+<h3>Data Scientist</h3>
 
-- :telescope: I’m working as a Backend Developer and contributing to data-related and backend applications.
-- 📖: Studied Applied Linguistics, preparing for a Masters in Computational Linguistics.
+<hr style=“width:40%”>
+
+<h2> - 📖: Studied Applied Linguistics, preparing for a Masters in Computational Linguistics.</h2>
+
+<p>- :telescope: I’m working as a Backend Developer and contributing to data-related and backend applications.</p>
+<p>- 🧟 🔪: In my free time, I like contributing to Cataclysm Dark Days Ahead. I also make knives!</p>
 
 
-- 🧟 🔪: In my free time, I like contributing to Cataclysm Dark Days Ahead. I also make knives!
+<hr style=“width:40%”>
+
+
+
+
+
 
   <!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>-->
 
@@ -137,17 +146,10 @@
 
 <center><h1>The Grossit</1>
 
-<h3>Full stack/back end dev</h3>
+
 
 <img>puma imagen</img>
 
-<hr style=“width:40%”>
-
-<h2> Summary</h2>
-
-<p>exp x años haciendo esto. Te gustan los cullis</p>
-
-<hr style=“width:40%”>
 
 <h2> App/Softs esos que tenias en listas con imagenes</h2>
 
