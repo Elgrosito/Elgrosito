@@ -148,12 +148,13 @@
 
 <img>puma imagen</img>
 
-| Backend          | Ml/Ai            | Python           | Database         | Other            |
-| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| Row 1 Backend    | Row 1 Ml/Ai      | Row 1 Python     | Row 1 Database   | Row 1 Other      |
-| Row 2 Backend    | Row 2 Ml/Ai      | Row 2 Python     | Row 2 Database   | Row 2 Other      |
-| Row 3 Backend    | Row 3 Ml/Ai      | Row 3 Python     | Row 3 Database   | Row 3 Other      |
-| Row 4 Backend    | Row 4 Ml/Ai      | Row 4 Python     | Row 4 Database   | Row 4 Other      |
-| Row 5 Backend    | Row 5 Ml/Ai      | Row 5 Python     | Row 5 Database   | Row 5 Other      |
+| Backend          | Ml/Ai                            | Python             | Database         | Other            |
+| ---------------- | -------------------------------- | ------------------ | ---------------- | ---------------- |
+| ![Backend1](https://cdn.worldvectorlogo.com/logos/django.svg) | ![Ml/Ai1](image2_url)           | ![Python1](image3_url) | ![Database1](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) | ![Other1](image5_url) |
+| ![Backend2](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg) | ![Ml/Ai2](image7_url)           | ![Python2](image8_url) | ![Database2](image9_url) | ![Other2](image10_url) |
+| ![Backend3](https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg) | ![Ml/Ai3](image12_url)         | ![Python3](image13_url) | ![Database3](image14_url) | ![Other3](image15_url) |
+| ![Backend4](image16_url) | ![Ml/Ai4](image17_url)         | ![Python4](image18_url) | ![Database4](image19_url) | ![Other4](image20_url) |
+| ![Backend5](image21_url) | ![Ml/Ai5](image22_url)         | ![Python5](image23_url) | ![Database5](image24_url) | ![Other5](image25_url) |
+
 
 
