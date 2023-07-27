@@ -15,7 +15,7 @@
 <h3 align="left">Frameworks:</h3>
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
