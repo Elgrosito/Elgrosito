@@ -16,7 +16,11 @@
 
 
 
-
+<tr>
+<th>Frameworks</th>
+<th>y/th>
+<th>z</th>
+</tr>
 
   <!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>-->
 
@@ -181,4 +185,3 @@
 
 <div></div>
 
-<p><font size=“-1”>Connect with me: kaggle profile</font size></p>
