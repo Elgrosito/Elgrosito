@@ -240,6 +240,10 @@
 <td style="text-align: center; vertical-align: middle">
     <img src="image6_url" alt="z2" width="30" height="30"/>
 </td>
+
+<td style="text-align: center; vertical-align: middle">
+    <img src="image6_url" alt="x3" width="30" height="30"/>
+</td>
 </tr>
 </table>
 </center>
