@@ -15,12 +15,7 @@
 
 
 
-
-<tr>
-<th>Frameworks</th>
-<th>y/th>
-<th>z</th>
-</tr>
+<h2> Tools</h2>
 
   <!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>-->
 
@@ -155,7 +150,7 @@
 <img>puma imagen</img>
 
 
-<h2> App/Softs esos que tenias en listas con imagenes</h2>
+
 
 <table style=“width:100%” border=“1”>
 
