@@ -18,33 +18,6 @@
 <h2> Tools</h2>
 <table style=“width:100%” border=“1”>
 
-<tr>
-<th>Backend</th>
-<th>Ml/Ai</th>
-<th>Python</th>
-<th>Database</th>
-<th>Other</th>
-</tr>
-
-<tr>
-<td style=“text-align: center; vertical-align: middle”> x1 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> y1 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> z1 img</td>
-</tr>
-
-<tr>
-<td style=“text-align: center; vertical-align: middle”> x2 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> y2 img</td>
-
-<td style=“text-align: center; vertical-align: middle”> z2 img</td>
-</tr>
-</table>
-</center>
-  <!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>-->
-
 <h3 align="left">Frameworks:</h3>
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
