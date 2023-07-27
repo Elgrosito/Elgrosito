@@ -207,7 +207,6 @@
 <div></div>
 <tr>
 <td style="text-align: center; vertical-align: middle">
-    x1 img
     <br>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>
