@@ -35,7 +35,7 @@
 <h3 align="left">I'm also on:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lucasparzianello" height="30" width="30" /></a>
-  <a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="" height="30" width="30" /></a>
+  <a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="https://www.lewagon.com/" height="30" width="30" /></a>
 </p>
 
 
