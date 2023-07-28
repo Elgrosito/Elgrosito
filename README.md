@@ -13,7 +13,6 @@
 
 <hr style=“width:40%”>
 
-<p align="left"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/></p>
 
 
 <center>
@@ -36,6 +35,7 @@
 <h3 align="left">I'm also on:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lucasparzianello" height="30" width="30" /></a>
+  <a href="https://www.kaggle.com/lucasparzianello" target="blank"><img align="center" src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="" height="30" width="30" /></a>
 </p>
 
 
