@@ -5,7 +5,7 @@
 
 <hr style=“width:40%”>
 
-<h2> - 📖:Applied linguist, doing Masters in Data Science.</h2>
+<h2> - 📖:Applied linguist, student at Georgia Tech MSc Analytics .</h2>
 
 <p>- :telescope: I’m working as a Backend Developer and contributing to data-related and backend applications.</p>
 <p>- 🧟 🔪: In my free time, I like contributing to Cataclysm Dark Days Ahead. I also make knives!</p>
