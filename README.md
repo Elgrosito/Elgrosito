@@ -1,7 +1,7 @@
 
 <center><h1>Lucas Parzianello</1>
 
-<h3>Data Scientist</h3>
+<h3>Python Developer, Data</h3>
 
 <hr style=“width:40%”>
 
